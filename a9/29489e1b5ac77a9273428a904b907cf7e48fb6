@@ -1,0 +1,14 @@
+argocd/example-app/service.yaml
+  h_87f12110363514 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "a929489e1b5ac77a9273428a904b907cf7e48fb6",
+  "prompts": {},
+  "humans": {
+    "h_87f12110363514": {
+      "author": "stcharle <stcharle@cisc.com>"
+    }
+  }
+}
